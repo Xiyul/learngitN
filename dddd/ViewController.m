@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"创建");
+    NSLog(@"第一次修改");
 }
 
 - (void)didReceiveMemoryWarning {
